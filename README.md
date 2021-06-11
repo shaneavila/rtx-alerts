@@ -7,7 +7,7 @@ Clone the repository:
 git clone https://github.com/shaneavila/rtx-alerts
 ```
 or download as ZIP and extract:
-[https://github.com/shaneavila/rtx-alerts/archive/master.zip](https://github.com/shaneavila/rtx-alerts/archive/master.zip)
+[https://github.com/shaneavila/rtx-alerts/archive/refs/heads/main.zip](https://github.com/shaneavila/rtx-alerts/archive/refs/heads/main.zip)
 
 ## :video_camera: Gif
 

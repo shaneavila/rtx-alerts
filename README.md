@@ -1,23 +1,35 @@
 # :man_technologist: Graphics Card Stock Alerts
-Checks Best Buy graphics card stock every 15 seconds. Sends text message if card is in stock.
+Checks graphics card stock every 15 seconds. Sends text message if card is in stock.
 
-## :inbox_tray: Clone/Download ZIP
-Clone the repository:
+## :inbox_tray: Download Node.js
+https://nodejs.org/en/download/
+
+## :desktop_computer: Compile
+Clone repository:
 ```bash
 git clone https://github.com/shaneavila/rtx-alerts
 ```
-or download as ZIP and extract:
-[https://github.com/shaneavila/rtx-alerts/archive/refs/heads/main.zip](https://github.com/shaneavila/rtx-alerts/archive/refs/heads/main.zip)
-
-## :video_camera: Gif
-
-## :test_tube: Test
-
-## :desktop_computer: Compile
 
 ## :running_man: Run
+Change directory:
+```bash
+cd rtx-alerts
+```
+Install dependencies:
+```bash
+npm install
+```
+Run:
+```bash
+node index.js
+```
 
 ## :printer: Output
-
+```
+Sold Out 8:37:54 PM
+Sold Out 8:38:09 PM
+Sold Out 8:38:24 PM
+Sold Out 8:38:40 PM
+```
 ## :page_facing_up: License
 [MIT](https://choosealicense.com/licenses/mit/)
